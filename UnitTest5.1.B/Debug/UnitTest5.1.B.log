@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest5.1.B.cpp
+D:\Lab-5\5.1.B\5.1.B\LongLong.cpp(32,113): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     Создается библиотека D:\Lab-5\5.1.B\Debug\UnitTest5.1.B.lib и объект D:\Lab-5\5.1.B\Debug\UnitTest5.1.B.exp
+  UnitTest5.1.B.vcxproj -> D:\Lab-5\5.1.B\Debug\UnitTest5.1.B.dll

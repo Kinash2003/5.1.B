@@ -1,0 +1,7 @@
+﻿  5.1.B.cpp
+  LongLong.cpp
+D:\Lab-5\5.1.B\5.1.B\LongLong.cpp(32,113): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Lab-5\5.1.B\5.1.B\LongLong.cpp(33,1): warning C5043: "operator >>": спецификация исключения не соответствует предыдущему объявлению
+D:\Lab-5\5.1.B\5.1.B\LongLong.h(23): message : см. объявление "operator >>"
+  Создание кода...
+  5.1.B.vcxproj -> D:\Lab-5\5.1.B\Debug\5.1.B.exe
